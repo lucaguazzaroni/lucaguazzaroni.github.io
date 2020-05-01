@@ -481,8 +481,11 @@ mark,
 }
 
 .img-circle {
-  height: 80%;
   border-radius: 50%;
+}
+
+.img-80 {
+  height: 80%;
 }
 
 .img-thumbnail {
