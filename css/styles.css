@@ -476,16 +476,22 @@ mark,
 }
 
 .img-fluid {
-  max-width: 100%;
+  width: 100%;
+  height: auto;
+}
+
+.img-fluid-80 {
+  width: 80%;
+  height: auto;
+}
+
+.img-fluid-50 {
+  width: 50%;
   height: auto;
 }
 
 .img-circle {
   border-radius: 50%;
-}
-
-.img-80 {
-  height: 80%;
 }
 
 .img-thumbnail {
